@@ -1108,3 +1108,10 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+.flexbox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
